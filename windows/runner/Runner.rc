@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.ride.sharing" "\0"
-            VALUE "FileDescription", "ride_sharing_platform" "\0"
+            VALUE "FileDescription", "flutter_carpool_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "ride_sharing_platform" "\0"
+            VALUE "InternalName", "flutter_carpool_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.ride.sharing. All rights reserved." "\0"
-            VALUE "OriginalFilename", "ride_sharing_platform.exe" "\0"
-            VALUE "ProductName", "ride_sharing_platform" "\0"
+            VALUE "OriginalFilename", "flutter_carpool_app.exe" "\0"
+            VALUE "ProductName", "flutter_carpool_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

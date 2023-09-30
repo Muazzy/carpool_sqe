@@ -1,4 +1,4 @@
-package com.ride.sharing.ride_sharing_platform
+package com.ride.sharing.flutter_carpool_app
 
 import io.flutter.embedding.android.FlutterActivity
 

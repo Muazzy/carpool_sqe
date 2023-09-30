@@ -1,4 +1,4 @@
-# ride_sharing_platform
+# flutter_carpool_app
 
 A new Flutter project.
 
