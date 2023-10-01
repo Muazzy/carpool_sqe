@@ -92,6 +92,7 @@ class _LoginScreenMobileState extends State<LoginScreenMobile> {
                           borderRadius:
                               const BorderRadius.all(Radius.circular(24))),
                       child: Row(
+                        // mainAxisSize: M,
                         children: [
                           SizedBox(
                             width: MediaQuery.of(context).size.width * 0.6,
@@ -112,6 +113,7 @@ class _LoginScreenMobileState extends State<LoginScreenMobile> {
                             ),
                           ),
                           IconButton(
+                            constraints: const BoxConstraints(),
                             onPressed: () {
                               setState(() {
                                 _discoverPassword = !_discoverPassword;
